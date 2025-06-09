@@ -1,3 +1,8 @@
-mensagem = 'OI, utilizando o git no vs code.Arquivo numero 2'
+mensaagem = 'Oii mundo'
+print(mensaagem)
 
-print(mensagem)
+
+def saudacao(nome):
+    print(f'Seja Bem-vindo {nome}!')
+
+saudacao('Asimov')   
