@@ -1,5 +1,8 @@
-mensagem = 'OI'
+mensaagem = 'Oii mundo'
+print(mensaagem)
 
-print(mensagem)
 
-print('Nova branch adicional' )
+def saudacao(nome):
+    print(f'Seja Bem-vindo {nome}!')
+
+saudacao('Asimov')   
